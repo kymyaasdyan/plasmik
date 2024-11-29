@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@plasmicapp/loader": "^0.0.59"
+  }
+}
